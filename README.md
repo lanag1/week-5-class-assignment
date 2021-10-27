@@ -1,4 +1,5 @@
 # week-5-class-assignment
+![New York website](NYweb.png)
 ## Good Aspects of this Interface Design
 1. All the main sections are listed at the top and can be reached by clicking on the rectangles as opposed to the word.
 2. The more important information is emphasized through the use of larger fonts and darker colors. 
@@ -11,5 +12,5 @@
 3. Spacing is off on page making it too time consuming to scroll through.
 4. While the fonts are legibible, they are quite basic.
 
-My Suggestions to Make the Interface Design Better:
+## My Suggestions to Make the Interface Design Better:
 > I suggect the addition of more colors to the site and some images so the user is engaged and can also recall where things are based on color rather than having to remember.
